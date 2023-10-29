@@ -2,7 +2,7 @@
 title: Plugins
 description: An overview of plugins used in Mythica Vanilla
 published: true
-date: 2023-10-29T20:53:28.498Z
+date: 2023-10-29T21:19:50.549Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T19:07:56.286Z
