@@ -2,7 +2,7 @@
 title: Plugins
 description: An overview of plugins used in Mythica Vanilla
 published: true
-date: 2023-10-29T19:07:56.286Z
+date: 2023-10-29T20:53:28.498Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T19:07:56.286Z
@@ -19,13 +19,13 @@ Mythica Vanilla Features over 19 plugins, each of which is designed for a differ
 |-------------|-------------|
 | Automatic Broadcast | Sends an automatic message through the server |
 | ChatControl | filters messages in the chat |
-| DiscordSRV | Discord Bridge between the minecraft server and Mythica's Discord Server |
-| Dynmap | Google Maps Style Web based Minecraft Map |
-| EssentialsX | General Useful plugin Commands |
+| [DiscordSRV](/mythica/vanilla/plugins/discordsrv) | Discord Bridge between the minecraft server and Mythica's Discord Server |
+| [Dynmap](/mythica/vanilla/plugins/dynmap) | Google Maps Style Web based Minecraft Map |
+| [Essentials](/mythica/vanilla/plugins/EssentialsX) | General Useful plugin Commands |
 | FastChunk Pregenerator | Pre-Generates the map in order to reduce lag |
 | Litebans | Punishment system for players that don't like rules |
 | LuckPerms | Permissions system to give players access to the correct set of commands|
-| SaberFactions | Factions Organization Plugin |
+| [SaberFactions](/mythica/vanilla/plugins/factions) | Factions Organization Plugin |
 | Tablist | Gives the tablist a more modern layout |
 | ViaBackWards | Allows older minecraft versions to connect to the Server |
 | ViaVersion | Allows Newer minecraft versions to connect to the Server |
