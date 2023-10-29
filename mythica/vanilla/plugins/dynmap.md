@@ -2,7 +2,7 @@
 title: Dynmap
 description: 
 published: true
-date: 2023-10-29T19:36:09.442Z
+date: 2023-10-29T19:38:26.875Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T19:36:09.442Z
@@ -31,7 +31,7 @@ Hides the player from the map, optional user parameter to target another user
 #### Command
 `/dynmap hide <Optional: User>`
 
-## Show (Faction Lookup
+## Show
 ### Show tabset {.tabset}
 #### Overview
 Shows the player from the map, optional user parameter to target another user
