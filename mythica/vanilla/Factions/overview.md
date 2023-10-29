@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-10-29T18:28:00.349Z
+date: 2023-10-29T18:35:13.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T17:46:32.398Z
@@ -37,7 +37,7 @@ Displays a list of all existing factions.
 #### Overview
 Inspect or lookup a specific faction from /f list
 #### Command
-`/factions top` or `/f top`
+`/factions top <factionName>` or `/f top <factionName>`
 
 # Faction Creation and Update Commands
 
