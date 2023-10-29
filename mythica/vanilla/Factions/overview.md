@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-10-29T17:56:08.772Z
+date: 2023-10-29T17:57:37.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T17:46:32.398Z
@@ -27,7 +27,10 @@ Note that all `/faction` commands can be shortened to just `/f`
 # Faction Information Commands
 ## List
 ### Tab {.tabset}
-Overview
+
+####Overview
+
 Displays a list of all existing factions.
-Command
+
+####Command
 `/factions list` or `/f list`
