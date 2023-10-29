@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2023-10-29T17:57:37.550Z
+date: 2023-10-29T18:00:27.268Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T17:46:32.398Z
@@ -25,8 +25,7 @@ The documentation for SaberFactions will be divided into divisions based on thei
 Note that all `/faction` commands can be shortened to just `/f`
 
 # Faction Information Commands
-## List
-### Tab {.tabset}
+## List{.tabset}
 
 ####Overview
 
