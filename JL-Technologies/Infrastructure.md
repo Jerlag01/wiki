@@ -2,7 +2,7 @@
 title: Infrastructure
 description: 
 published: true
-date: 2023-10-29T22:20:43.801Z
+date: 2023-10-29T22:23:02.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T22:20:43.801Z
@@ -14,7 +14,8 @@ We currently have a small infrastructure but are planning to expand as per reque
 ## HP DL160 GEN 9
 
 ### Hardware Inventory
-|
+ |Hardware | Description |
+| ------------------- | -------------------------------|
 | CPU | 2 x Intel Xeon E5-2603 V3 @ 1.60 GHz |
 | RAM | 8 x 8Gb DIMM DDR4 ECC @ 2133 MHz |
 | Storage 1 | 2 x 200Gb SSD in RAID 0 |
